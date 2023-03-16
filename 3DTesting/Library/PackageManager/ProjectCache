@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Projets Uy/3CTesting/3DTesting/Packages/manifest.json
+    m_FilePath: C:/Users/aspin/OneDrive/Documents/GitHub/3CTesting/3DTesting/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638115529295341344
-    m_Hash: 104030916
+      ticks: 638121530030315225
+    m_Hash: 4077561721
   m_LockFileStatus:
-    m_FilePath: C:/Projets Uy/3CTesting/3DTesting/Packages/packages-lock.json
+    m_FilePath: C:/Users/aspin/OneDrive/Documents/GitHub/3CTesting/3DTesting/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638115529295434887
-    m_Hash: 3919086122
+      ticks: 638121531860108081
+    m_Hash: 1613360620
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Projets Uy/3CTesting/3DTesting/Packages
-m_EditorVersion: 2021.3.18f1 (3129e69bc0c7)
+m_ProjectPath: C:/Users/aspin/OneDrive/Documents/GitHub/3CTesting/3DTesting/Packages
+m_EditorVersion: 2022.1.23f1 (9636b062134a)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@2.8.9
   testable: 0
   isDirectDependency: 1
   version: 2.8.9
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.cinemachine@2.8.9
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.cinemachine@2.8.9
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -111,6 +111,7 @@ m_ResolvedPackages:
     - 2.9.4
     - 2.9.5
     - 3.0.0-pre.3
+    - 3.0.0-pre.4
     compatible:
     - 2.8.9
     - 2.9.0-pre.1
@@ -125,7 +126,7 @@ m_ResolvedPackages:
     version: 1.1.31
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -175,13 +176,13 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 2.8.9
-    nextVersion: 
+    nextVersion: 2.9.0-pre.6
 - packageId: com.unity.collab-proxy@2.0.0
   testable: 0
   isDirectDependency: 1
   version: 2.0.0
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.collab-proxy@2.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.collab-proxy@2.0.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -263,11 +264,20 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.17.6
+    - 1.17.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
     - 2.0.0
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 2.0.0
+    verified: 1.17.7
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -303,14 +313,14 @@ m_ResolvedPackages:
     revision: a1b1151e0c90bc327ea95678473c1f3a935b2c9e
     path: 
   unityLifecycle:
-    version: 2.0.0
+    version: 1.17.6
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -351,7 +361,7 @@ m_ResolvedPackages:
   - name: com.unity.ide.visualstudio
     version: 2.0.17
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -367,9 +377,9 @@ m_ResolvedPackages:
   - name: com.unity.performance.profile-analyzer
     version: 1.1.1
   - name: com.unity.testtools.codecoverage
-    version: 1.2.2
+    version: 1.1.1
   - name: com.unity.settings-manager
-    version: 1.0.3
+    version: 2.0.1
   keywords: []
   registry:
     id: main
@@ -397,7 +407,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.18
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.rider@3.0.18
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.rider@3.0.18
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -449,6 +459,8 @@ m_ResolvedPackages:
     - 3.0.17
     - 3.0.18
     compatible:
+    - 3.0.16
+    - 3.0.17
     - 3.0.18
     verified: 3.0.18
   dependencies:
@@ -477,14 +489,14 @@ m_ResolvedPackages:
     revision: b40b39e6834c2915637f431d002d1f3dd8ec9ce5
     path: 
   unityLifecycle:
-    version: 3.0.18
+    version: 3.0.16
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.17
   testable: 0
   isDirectDependency: 1
   version: 2.0.17
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.visualstudio@2.0.17
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.visualstudio@2.0.17
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -522,6 +534,7 @@ m_ResolvedPackages:
     - 2.0.16
     - 2.0.17
     compatible:
+    - 2.0.16
     - 2.0.17
     verified: 2.0.17
   dependencies:
@@ -529,7 +542,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -556,14 +569,14 @@ m_ResolvedPackages:
     revision: 1f126893bfb18ea9661fb15771613e841467073c
     path: 
   unityLifecycle:
-    version: 2.0.17
+    version: 2.0.16
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -572,7 +585,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: Code editor integration for supporting Visual Studio Code as code
     editor for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -607,7 +620,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637800255360000000
   documentationUrl: 
@@ -625,7 +638,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 5.0.6
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.probuilder@5.0.6
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.probuilder@5.0.6
   assetPath: Packages/com.unity.probuilder
   name: com.unity.probuilder
   displayName: ProBuilder
@@ -634,7 +647,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: 'Build, edit, and texture custom geometry in Unity. Use ProBuilder
     for in-scene level design, prototyping, collision meshes, all with on-the-fly
     play-testing.
@@ -691,7 +704,6 @@ m_ResolvedPackages:
     - 5.0.4
     - 5.0.6
     compatible:
-    - 5.0.3
     - 5.0.4
     - 5.0.6
     verified: 5.0.6
@@ -704,7 +716,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.settings-manager
-    version: 1.0.3
+    version: 2.0.1
   - name: com.unity.modules.physics
     version: 1.0.0
   - name: com.unity.modules.imgui
@@ -738,7 +750,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637928847600000000
   documentationUrl: 
@@ -749,124 +761,14 @@ m_ResolvedPackages:
     revision: a2e0f7904211f195c1c7661cdbed49fdc4a4130d
     path: 
   unityLifecycle:
-    version: 5.0.3
-    nextVersion: 
-- packageId: com.unity.test-framework@1.1.31
-  testable: 0
-  isDirectDependency: 1
-  version: 1.1.31
-  source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.test-framework@1.1.31
-  assetPath: Packages/com.unity.test-framework
-  name: com.unity.test-framework
-  displayName: Test Framework
-  author:
-    name: 
-    email: 
-    url: 
-  category: Unity Test Framework
-  type: asset
-  description: Test framework for running Edit mode and Play mode tests in Unity.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.0.4-preview
-    - 0.0.29-preview
-    - 1.0.0
-    - 1.0.7
-    - 1.0.9
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.0.14
-    - 1.0.16
-    - 1.0.17
-    - 1.0.18
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    - 1.1.5
-    - 1.1.8
-    - 1.1.9
-    - 1.1.11
-    - 1.1.13
-    - 1.1.14
-    - 1.1.16
-    - 1.1.18
-    - 1.1.19
-    - 1.1.20
-    - 1.1.22
-    - 1.1.24
-    - 1.1.26
-    - 1.1.27
-    - 1.1.29
-    - 1.1.30
-    - 1.1.31
-    - 1.1.33
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 2.0.1-exp.1
-    - 2.0.1-exp.2
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
-    compatible:
-    - 1.1.31
-    - 1.1.33
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 2.0.1-exp.1
-    - 2.0.1-exp.2
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
-    verified: 1.1.33
-  dependencies:
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - Test
-  - TestFramework
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637804266210000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
-    path: 
-  unityLifecycle:
-    version: 1.1.31
+    version: 5.0.4
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -991,6 +893,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
+    - 4.0.0-pre.1
     verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
@@ -1034,7 +937,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1123,16 +1026,15 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.7.1
     - 1.7.2
+    - 1.7.3
     - 1.8.0
+    - 1.8.1
     compatible:
-    - 1.6.4
-    - 1.7.0-pre.1
-    - 1.7.0-pre.2
-    - 1.7.0
-    - 1.7.1
     - 1.7.2
+    - 1.7.3
     - 1.8.0
-    verified: 1.6.4
+    - 1.8.1
+    verified: 1.7.3
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -1176,14 +1078,14 @@ m_ResolvedPackages:
     revision: d7e1eb6805737974459309b7d6e7db58635dd167
     path: 
   unityLifecycle:
-    version: 1.6.4
+    version: 1.7.2
     nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1246,7 +1148,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.0
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.visualscripting@1.8.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.visualscripting@1.8.0
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1290,8 +1192,10 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0
     compatible:
+    - 1.7.8
+    - 1.8.0-pre.1
     - 1.8.0
-    verified: 1.8.0
+    verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1326,14 +1230,14 @@ m_ResolvedPackages:
     revision: 0de66378b19e990494d98f39ecc2b6aa5ac65351
     path: 
   unityLifecycle:
-    version: 1.8.0
+    version: 1.7.8
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1382,7 +1286,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1430,7 +1334,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1479,7 +1383,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1528,7 +1432,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1577,7 +1481,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1630,7 +1534,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1687,7 +1591,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1737,7 +1641,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1786,7 +1690,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1835,7 +1739,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1884,7 +1788,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1933,7 +1837,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1982,7 +1886,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2035,7 +1939,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2084,7 +1988,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2141,7 +2045,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2193,7 +2097,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2242,7 +2146,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2307,7 +2211,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2356,7 +2260,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2413,7 +2317,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2462,7 +2366,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2519,7 +2423,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2576,7 +2480,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2633,7 +2537,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2706,7 +2610,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2759,7 +2663,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2820,7 +2724,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2883,7 +2787,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2932,7 +2836,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2993,7 +2897,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3046,7 +2950,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -3106,7 +3010,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3115,7 +3019,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Libraries
-  type: 
+  type: asset
   description: Custom version of the nunit package build to work with Unity. Used
     by the Unity Test Framework.
   status: 0
@@ -3149,7 +3053,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637429759280000000
   documentationUrl: 
@@ -3162,12 +3066,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.settings-manager@1.0.3
+- packageId: com.unity.settings-manager@2.0.1
   testable: 0
   isDirectDependency: 0
-  version: 1.0.3
+  version: 2.0.1
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.settings-manager@1.0.3
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -3176,7 +3080,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: A framework for making any serializable field a setting, complete
     with a pre-built settings interface.
   status: 0
@@ -3192,10 +3096,8 @@ m_ResolvedPackages:
     - 2.0.0
     - 2.0.1
     compatible:
-    - 1.0.3
-    - 2.0.0
     - 2.0.1
-    verified: 1.0.3
+    verified: 2.0.1
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3209,23 +3111,134 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637300096300000000
+  datePublishedTicks: 637744099390000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
-    revision: 473664ccba1496294b741cf169740a5d54b3d0b6
+    url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 9b7c12d04ef880168151c127fd6b37b5931197dc
     path: 
   unityLifecycle:
-    version: 1.0.3
+    version: 2.0.1
+    nextVersion: 
+- packageId: com.unity.test-framework@1.1.33
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.33
+  source: 1
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.test-framework@1.1.33
+  assetPath: Packages/com.unity.test-framework
+  name: com.unity.test-framework
+  displayName: Test Framework
+  author:
+    name: 
+    email: 
+    url: 
+  category: Unity Test Framework
+  type: asset
+  description: Test framework for running Edit mode and Play mode tests in Unity.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.4-preview
+    - 0.0.29-preview
+    - 1.0.0
+    - 1.0.7
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.5
+    - 1.1.8
+    - 1.1.9
+    - 1.1.11
+    - 1.1.13
+    - 1.1.14
+    - 1.1.16
+    - 1.1.18
+    - 1.1.19
+    - 1.1.20
+    - 1.1.22
+    - 1.1.24
+    - 1.1.26
+    - 1.1.27
+    - 1.1.29
+    - 1.1.30
+    - 1.1.31
+    - 1.1.33
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 2.0.1-exp.1
+    - 2.0.1-exp.2
+    - 2.0.1-pre.12
+    - 2.0.1-pre.18
+    compatible:
+    - 1.1.33
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 2.0.1-exp.1
+    - 2.0.1-exp.2
+    - 2.0.1-pre.12
+    - 2.0.1-pre.18
+    verified: 1.1.33
+  dependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - Test
+  - TestFramework
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 637938212700000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+    revision: 34a4d423d64926635eb36d3bb86276179cc186e1
+    path: 
+  unityLifecycle:
+    version: 1.1.33
     nextVersion: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3284,7 +3297,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.1
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3345,12 +3358,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.1.1
     nextVersion: 
-- packageId: com.unity.testtools.codecoverage@1.2.2
+- packageId: com.unity.testtools.codecoverage@1.1.1
   testable: 0
   isDirectDependency: 0
-  version: 1.2.2
+  version: 1.1.1
   source: 1
-  resolvedPath: C:\Projets Uy\3CTesting\3DTesting\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2
+  resolvedPath: C:\Users\aspin\OneDrive\Documents\GitHub\3CTesting\3DTesting\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -3397,8 +3410,18 @@ m_ResolvedPackages:
     - 1.2.1
     - 1.2.2
     compatible:
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
+    - 1.2.0
+    - 1.2.1
     - 1.2.2
-    verified: 1.2.2
+    verified: 1.1.1
   dependencies:
   - name: com.unity.test-framework
     version: 1.0.16
@@ -3406,7 +3429,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -3414,7 +3437,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.settings-manager
-    version: 1.0.3
+    version: 2.0.1
   keywords:
   - test
   - coverage
@@ -3430,14 +3453,14 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638047147810000000
+  datePublishedTicks: 637755928510000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git
-    revision: 4178e047a15e206f715d23af69b02acd367bb000
+    revision: c8c48a225d2b1a7fd5e3b1698e7aba02970ad9fe
     path: 
   unityLifecycle:
-    version: 1.2.2
+    version: 1.1.1
     nextVersion: 
